@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.lightblue-header {
+  background-color: lightblue !important;
+}
+.border-right {
+  border-right: 0.5px solid #484545 !important;
+}
+
